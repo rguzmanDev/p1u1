@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica3107</string>
+    <string name="enviar_mensaje">Enviar Mensaje</string>
+    <string name="ingresar_mensaje">Ingresar mensaje</string>
+</resources>
